@@ -2,4 +2,4 @@
 
 ## Manual de utilizare
 
-## Cerince hard
+## Cerinte hard
